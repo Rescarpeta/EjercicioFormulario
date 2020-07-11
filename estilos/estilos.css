@@ -1,0 +1,43 @@
+.formulario{
+    background: rgb(127, 107, 241);
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    vertical-align: 50px;
+    margin: auto;
+    width: max-content;
+
+}
+.conte{
+    background: rgb(236, 222, 98);
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    size: 30px;
+    font-size: 30px;
+
+}
+.Formu{
+    text-align: center;
+    align-items: center;
+    padding: 50px;
+    
+
+}
+body{
+  background: rgb(255, 255, 255);
+
+}
+button{
+    border-radius: 10px;
+    background: rgb(112, 112, 255);
+    padding: 10px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    
+}
+.Formu.label{
+    text-align: center;
+    padding: 20px;
+}
+
